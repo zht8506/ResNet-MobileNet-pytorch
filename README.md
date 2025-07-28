@@ -2,6 +2,8 @@
 
 ## 说明
 
+本文构建了ResNet模型，包括模型结构、训练和评估等流程，方便初学者简单快速地完成一次深度学习实验。该仓库下还有mobilenet模型的相关文件。
+
 本代码来源于 https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/tree/master/pytorch_classification/Test5_resnet
 
 本代码在此基础上写了大量注释，更加便于学习
